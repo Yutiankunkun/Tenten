@@ -15,7 +15,8 @@ Hello, I’m Lan Tian. Welcome to my GitHub profile, where I share my work in co
 
 ## Business Contest
 
-**Hai Xing College Notes Sharing Platform** 
+**Hai Xing College Notes Sharing Platform**
+
 This project aimed to tackle the challenges faced by undergraduate students, such as insufficient study resources and limited communication channels, by creating an online platform for resource sharing and organizing offline study sessions.
 - 🙎 **Team Members**: Grew the project team from 5 to over 30 members, including students from various universities and disciplines.
 - 📱 **Social Impact**: The WeChat official account gained more than 2,000 followers, and offline events attracted over 1,000 participants.
