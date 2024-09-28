@@ -11,7 +11,7 @@ Hello, I’m Lan Tian. Welcome to my GitHub profile, where I share my work in co
 ## Education 
 
 - **2018 - 2022**: Shanghai Maritime University, Specializing in International Accounting.
-- **2024 - Present**: Hitotsubashi University, Focus on Economics (Machine Learning: Reservoir Computing).
+- **2024 - Present**: Hitotsubashi University, Focus on Economics (Machine Learning, Reservoir Computing).
 
 ## Business Contest
 
