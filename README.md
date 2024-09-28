@@ -15,7 +15,7 @@ Hello, I’m Lan Tian. Welcome to my GitHub profile, where I share my work in co
 
 ## Business Contest
 
-**Hai Xing College Notes Sharing Platform**
+**Haixing College Notes Sharing Platform**
 
 This project aimed to tackle the challenges faced by undergraduate students, such as insufficient study resources and limited communication channels, by creating an online platform for resource sharing and organizing offline study sessions.
 - 🙎 **Team Members**: Grew the project team from 5 to over 30 members, including students from various universities and disciplines.
@@ -47,9 +47,9 @@ This project aimed to tackle the challenges faced by undergraduate students, suc
 
 4. **Other Competitions**
 
-- 💰 [Price Range Classification from Mobile Phone | Signate](https://signate.jp/competitions/990)  Placement: 47/195 (Top 24%)
-- 🍺 [SIGNATE Cup 2024 | Signate](https://signate.jp/competitions/1376)  Placement: 452/1226 (Top 36%)
-- 💵 [Home Credit - Credit Risk Model Stability | Kaggle](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability)  Placement: 1649/3856 (Top 43%)
+- 💰 [Price Range Classification from Mobile Phone | Signate](https://signate.jp/competitions/990) --Placement: 47/195 (Top 24%)
+- 🍺 [SIGNATE Cup 2024 | Signate](https://signate.jp/competitions/1376) --Placement: 452/1226 (Top 36%)
+- 💵 [Home Credit - Credit Risk Model Stability | Kaggle](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability) --Placement: 1649/3856 (Top 43%)
 
 5. **Reservoir Computing**
 - 💬 Research | Updating: [Reservoir Computing Introduction(JP)](https://github.com/Yutiankunkun/Reservoir-Computing) 
