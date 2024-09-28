@@ -15,7 +15,7 @@ Hello, I’m Lan Tian. Welcome to my GitHub profile, where I share my work in co
 
 ## Business Contest
 
-**Hai Xing College Notes Sharing Platform**
+**Hai Xing College Notes Sharing Platform** 
 This project aimed to tackle the challenges faced by undergraduate students, such as insufficient study resources and limited communication channels, by creating an online platform for resource sharing and organizing offline study sessions.
 - 🙎 **Team Members**: Grew the project team from 5 to over 30 members, including students from various universities and disciplines.
 - 📱 **Social Impact**: The WeChat official account gained more than 2,000 followers, and offline events attracted over 1,000 participants.
@@ -31,17 +31,17 @@ This project aimed to tackle the challenges faced by undergraduate students, suc
 
 1. **DTRA Jリーグの観客動員数予測2024 | Signate**
    - 🏆 [J-League Attendance Prediction](https://signate.jp/competitions/1379)
-   - 📄 Code: [待补充]
+   - 📄 Code: [Catboost Regression](https://github.com/Yutiankunkun/J-League-Attendance-2024)
    - 📊 Placement: 14/304 (Top 4.6%)
 
 2. **MUFG Data Science Basic Ship 2024 | Signate**
    - 🏆 [Personal Bank Loan Classification](https://www.saiyo.bk.mufg.jp/datascience/)
-   - 📄 Code: [待补充]
+   - 📄 Code: [Catboost Classification](https://github.com/Yutiankunkun/Loan-Classification-2024)
    - 📊 Placement: 26/266 (Top 9.7%)
 
 3. **LEAP - Atmospheric Physics using AI (ClimSim) | Kaggle**
    - 🏆 [Atmosphyeric Physics Factors Prediction](https://www.kaggle.com/c/climsim)
-   - 📄 Code: [待补充]
+   - 📄 Code: [Keras Seq2seq](https://github.com/Yutiankunkun/LEAP---Atmospheric-Physics-using-AI-ClimSim-)
    - 📊 Placement: 126/709 (Top 18%)
 
 4. **Other Competitions**
@@ -51,6 +51,6 @@ This project aimed to tackle the challenges faced by undergraduate students, suc
 - 💵 Home Credit - Credit Risk Model Stability | Kaggle: Placement: 1649/3856 (Top 43%)
 
 5. **Reservoir Computing**
-- 💬 Understanding Reservoir Computing: [Reservoir Computing Introduction(JP)]() 
+- 💬 Research | Updating: [Reservoir Computing Introduction(JP)](https://github.com/Yutiankunkun/Reservoir-Computing) 
 
 Thanks for visiting my profile! I hope you find something interesting here! 🙌
