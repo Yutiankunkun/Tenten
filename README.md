@@ -17,9 +17,9 @@ Hello, I’m Lan Tian. Welcome to my GitHub profile, where I share my work in co
 
 **Hai Xing College Notes Sharing Platform**
 This project aimed to tackle the challenges faced by undergraduate students, such as insufficient study resources and limited communication channels, by creating an online platform for resource sharing and organizing offline study sessions.
-- **Team Members**: Grew the project team from 5 to over 30 members, including students from various universities and disciplines.
-- **Social Media Impact**: The WeChat official account gained more than 2,000 followers, and offline events attracted over 1,000 participants.
-- **Business Plan**: Co-authored a 50,000-word business plan, covering market analysis, marketing strategies, and financial projections.
+- 🙎 **Team Members**: Grew the project team from 5 to over 30 members, including students from various universities and disciplines.
+- 📱 **Social Impact**: The WeChat official account gained more than 2,000 followers, and offline events attracted over 1,000 participants.
+- 📖 **Business Plan**: Co-authored a 50,000-word business plan, covering market analysis, marketing strategies, and financial projections.
 
 **Awards**
 1. **National Undergraduate Innovation and Entrepreneurship Training Program**: 2019 ~ 2022
@@ -46,8 +46,11 @@ This project aimed to tackle the challenges faced by undergraduate students, suc
 
 4. **Other Competitions**
 
-- **Price Range Classification from Mobile Phone | Signate**: Placement: 47/195 (Top 24%)
-- **SIGNATE Cup 2024 | Signate**: Placement: 452/1226 (Top 36%)
-- **Home Credit - Credit Risk Model Stability | Kaggle**: Placement: 1649/3856 (Top 43%)
+- 💰 Price Range Classification from Mobile Phone | Signate: Placement: 47/195 (Top 24%)
+- 🍺 SIGNATE Cup 2024 | Signate: Placement: 452/1226 (Top 36%)
+- 💵 Home Credit - Credit Risk Model Stability | Kaggle: Placement: 1649/3856 (Top 43%)
+
+5. **Reservoir Computing**
+- 💬 Understanding Reservoir Computing: [Reservoir Computing Introduction(JP)]() 
 
 Thanks for visiting my profile! I hope you find something interesting here! 🙌
