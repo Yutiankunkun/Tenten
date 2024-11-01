@@ -30,7 +30,7 @@ This project aimed to tackle the challenges faced by undergraduate students, suc
 
 ## Projects
 
-1. **DTRA Jリーグの観客動員数予測2024 | Signate**
+1. **DTRA JLeague Attendance Prediction 2024 | Signate**
    - 🏆 [J-League Attendance Prediction](https://signate.jp/competitions/1379)
    - 📄 Code: [Catboost Regression](https://github.com/Yutiankunkun/J-League-Attendance-2024)
    - 📊 Placement: 14/304 (Top 4.6%)
