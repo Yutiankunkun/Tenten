@@ -54,7 +54,8 @@ This project aimed to tackle the challenges faced by undergraduate students, suc
 ## Research
 
 **Reservoir Computing**
-- **Introduction**: [Reservoir Computing Introduction(JP)](https://github.com/Yutiankunkun/Reservoir-Computing) 
-- **Project**: [Motion Decoding Using Biosignals(JP)](https://github.com/Yutiankunkun/Motion-Decoding-Using-Biosignals)
+- 📖 **Introduction**: [Reservoir Computing Introduction(JP)](https://github.com/Yutiankunkun/Reservoir-Computing) 
+- 💻 **Project**: [Motion Decoding Using Biosignals(JP)](https://github.com/Yutiankunkun/Motion-Decoding-Using-Biosignals)
+
 
 Thanks for visiting my profile! I hope you find something interesting here! 🙌
