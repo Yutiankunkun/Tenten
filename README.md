@@ -51,7 +51,10 @@ This project aimed to tackle the challenges faced by undergraduate students, suc
 - 🍺 [SIGNATE Cup 2024 | Signate](https://signate.jp/competitions/1376) ---Placement: 452/1226 (Top 36%)
 - 💵 [Home Credit - Credit Risk Model Stability | Kaggle](https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability) ---Placement: 1649/3856 (Top 43%)
 
-5. **Reservoir Computing**
-- 💬 Research | Updating: [Reservoir Computing Introduction(JP)](https://github.com/Yutiankunkun/Reservoir-Computing) 
+## Research
+
+**Reservoir Computing**
+- **Introduction**: [Reservoir Computing Introduction(JP)](https://github.com/Yutiankunkun/Reservoir-Computing) 
+- **Project**: [Motion Decoding Using Biosignals(JP)](https://github.com/Yutiankunkun/Motion-Decoding-Using-Biosignals)
 
 Thanks for visiting my profile! I hope you find something interesting here! 🙌
