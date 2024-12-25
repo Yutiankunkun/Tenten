@@ -1,4 +1,4 @@
-# Tenten - GitHub README
+# Suise1 - GitHub README
 
 Hello, I’m Lan Tian. Welcome to my GitHub profile, where I share my work in coding, research, and various personal projects.
 
