@@ -18,8 +18,8 @@ Hello, I’m Lan Tian. Welcome to my GitHub profile, where I share my work in co
 **Reservoir Computing & ML,DL**
 
 Reservoir computing is a framework for computation derived from recurrent neural network theory that maps input signals into higher dimensional computational spaces through the dynamics of a fixed, non-linear system called a reservoir.
-- 📖 **Introduction**: [Reservoir Computing Introduction(JP)](https://github.com/Yutiankunkun/Reservoir-Computing) 
-- 💻 **Project of Analyzing EEG**: [Motion Decoding Using Biosignals(JP)](https://github.com/Yutiankunkun/Motion-Decoding-Using-Biosignals)
+- 📖 **Introduction**: [Reservoir Computing Introduction](https://github.com/Yutiankunkun/Reservoir-Computing) 
+- 💻 **Project of Analyzing EEG**: [Motion Decoding Using Biosignals](https://github.com/Yutiankunkun/Motion-Decoding-Using-Biosignals)
 
 ## Business Contest
 
